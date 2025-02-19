@@ -1,2 +1,2 @@
-Print ("New hello git 1")
+Print ("New hello git with changes 2025!")
 
